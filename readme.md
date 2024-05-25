@@ -56,14 +56,14 @@ Users can manage psychiatrist and patient data through specific API endpoints. P
 
 Access the Swagger UI to interact with the API at:
 ```
-http://localhost:3300/api-docs
+https://hospital-management-production-88c6.up.railway.app/
 ```
 
 ## Base URL
 
 The base URL for all API requests is:
 ```
-http://localhost:3300
+https://hospital-management-production-88c6.up.railway.app/
 ```
 
 ## Endpoints

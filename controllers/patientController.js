@@ -17,9 +17,7 @@ exports.registerPatient = async (req, res) => {
     }
 
     const folder='Patients';
-    const photo=await imageUploader(req.file.path,folder)
-    console.log({ name, address, email, phone_number, password, psychiatrist_id,path:req.file.path });
-    
+    const photo=await imageUploader(req.file.path,folder);
     if(!photo){
         res.status(500).send({error:"Image not uploded!"});
     }
