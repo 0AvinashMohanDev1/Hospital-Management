@@ -35,7 +35,7 @@ Users can manage psychiatrist and patient data through specific API endpoints. P
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/0AvinashMohanDev1/Hospital-Management.git
    ```
 2. **Navigate to the project directory:**
    ```bash
