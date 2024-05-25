@@ -26,6 +26,7 @@ The Hospital Management API is built to streamline operations within hospital se
 ### Swagger
 
 Swagger is used to document the API and provide an interactive interface where users can test API endpoints directly from their browsers. It helps in understanding and verifying the functionality of the API without the need for a separate client setup.
+Swagger Url: [https://hospital-management-production-88c6.up.railway.app/api-docs/#/]
 
 ### Psychiatrist and Patient
 
