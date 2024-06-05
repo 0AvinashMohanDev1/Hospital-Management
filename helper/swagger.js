@@ -13,7 +13,7 @@ const options={
         },
         servers:[
             {
-                url:'http://localhost:3300',
+                url:'https://hospital-management-production-88c6.up.railway.app/',
             },
         ],
     },
