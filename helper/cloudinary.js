@@ -8,6 +8,7 @@ cloudinary.config({
   secure: true,
 });
 
+// this allows to upload imges into cloudinary
 async function imageUploader(image,folder){
   try {
       const result=await cloudinary.uploader.upload(image,{folder});
