@@ -16,6 +16,7 @@ async function imageUploader(image,folder){
   } catch (error) {
       console.log({error:error.message})
   }
+  
 };
 
 module.exports=imageUploader;
